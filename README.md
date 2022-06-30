@@ -1,25 +1,9 @@
-<!-- ### Hi there 👋
-
-<!--
-**ThatShark/ThatShark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> -->
 <h1 align="center">Hi 👋, I'm WhiteShark</h1>
 <h3 align="center">A passionate code beginner from Taiwan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/ThatShark"><img src="https://img.shields.io/badge/Github-ThatShark-lightgray?style=flat-square&logo=github"/></a></t>
+<a href="https://github.com/ThatShark"><img src="https://img.shields.io/badge/Github-ThatShark-lightgray?style=flat-square&logo=github"/></a>
 <a href="https://discord.com/users/779305775088402454"><img src="https://img.shields.io/badge/Discord-那條鯊魚-blue?style=flat-square&logo=discord"/></a>
 </p>
 
