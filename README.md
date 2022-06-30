@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://github.com/ThatShark"><img src="https://img.shields.io/badge/Github-ThatShark-lightgray?style=flat-square&logo=github"/></a></t>
+<a href="https://discord.com/users/779305775088402454"><img src="https://img.shields.io/badge/Discord-那條鯊魚-blue?style=flat-square&logo=discord"/></a>
 </p>
 
 <h3 align="left">Learning Languages:</h3>
