@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WhiteShark</h1>
 <h3 align="center">A passionate code beginner from Taiwan</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Some Information:</h3>
 <p align="left">
 <a href="https://github.com/ThatShark"><img src="https://img.shields.io/badge/Github-ThatShark-lightgray?style=flat-square&logo=github"/></a>
 </p>
